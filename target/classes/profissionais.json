@@ -1,0 +1,29 @@
+{
+  "especialidades": [
+    {
+      "nome": "Cardiologia",
+      "profissionais": [
+        {
+          "nome": "Dra. Maria Silva",
+          "crm": "12345-SP",
+          "disponibilidade": ["2025-04-18T09:00", "2025-04-18T14:00"]
+        },
+        {
+          "nome": "Dr. João Pereira",
+          "crm": "67890-SP",
+          "disponibilidade": ["2025-04-19T10:00"]
+        }
+      ]
+    },
+    {
+      "nome": "Nutrição",
+      "profissionais": [
+        {
+          "nome": "Dra. Ana Lima",
+          "crm": "11223-SP",
+          "disponibilidade": ["2025-04-20T08:30"]
+        }
+      ]
+    }
+  ]
+}
